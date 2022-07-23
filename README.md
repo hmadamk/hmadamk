@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hmadamk
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me hmada.kamel2006@gmail.com
 
